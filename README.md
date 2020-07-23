@@ -1,5 +1,5 @@
 Maze Game!
-Team # 5
+
 
 Game Description:
 
